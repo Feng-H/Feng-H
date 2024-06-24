@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Feng-H
-- 👀 I’m interested in python and big data analysis
-- 🌱 I’m currently learning Django
-- 💞️ I’m not a programmer
-- 📫 I'm a equipment engineer/manager at SANY HEAVY INDUSTRY CO., LTD.
+- Now Learning Tableau SQL
+- I am try to develop a equipment managment system
+
 
 <!---
 Feng-H/Feng-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
