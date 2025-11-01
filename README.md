@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feng-H
-- Now Learning Tableau SQL
-- I am try to develop a equipment managment system
+- Now Learning Web develop
+- I am try to use Trae_CN
 
 
 <!---
