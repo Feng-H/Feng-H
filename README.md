@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feng-H
 - Now Learning Web develop
-- I am try to use Trae_CN
+- I am try to use Cursor Trae_CN to develop apps
 
 
 <!---
