@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Feng-H
-- Now Learning Web develop
-- I am try to use Cursor Trae_CN to develop apps
+- Now I am try to build some apps
+- I did not learn complete coding, just know some very basic thing.
+- I use Linux and docker, and I have a VPS, also build localserver through FNOS docker envirment
+- now I use Cursor
 
 
 <!---
